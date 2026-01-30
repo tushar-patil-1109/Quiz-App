@@ -99,7 +99,7 @@ Quiz-Application-Using-Java
 ## 📸 Screenshots / Demo Video
 
 ### Login Screen
-<img width="700" height="300" alt="Screenshot 2026-01-31 001114" src="https://github.com/user-attachments/assets/b10cc860-eba8-4120-8929-c614921184bb" />
+<img width="700" height="400" alt="Screenshot 2026-01-31 001114" src="https://github.com/user-attachments/assets/b10cc860-eba8-4120-8929-c614921184bb" />
 <br><br>
 
 ### Rules Screen
