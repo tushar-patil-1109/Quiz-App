@@ -98,7 +98,7 @@ Quiz-Application-Using-Java
 
 ## 📸 Screenshots 
 
-<br><br>
+
 ### Login Screen
 <img width="1000" height="500" alt="Screenshot 2026-01-31 001114" src="https://github.com/user-attachments/assets/b10cc860-eba8-4120-8929-c614921184bb" />
 <br><br>
