@@ -18,7 +18,6 @@ This project is ideal for Java beginners, college mini-projects, and interview d
 
 - Platform: Windows / Linux / macOS
 
-
 ---
 
 ## ✨ Features
@@ -37,8 +36,6 @@ This project is ideal for Java beginners, college mini-projects, and interview d
 
 - Clean and simple GUI
 
-
-
 ---
 
 ## 📂 Project Structure
@@ -51,13 +48,13 @@ Quiz-Application-Using-Java
 │   │   ├── Rules.java        # Quiz rules
 │   │   ├── Quiz.java         # Main quiz logic
 │   │   └── Score.java        # Score display
+│   │
 │   └── icons/                # Images used in UI
 │
 ├── build/                     # Compiled classes (auto-generated)
 ├── nbproject/                 # NetBeans project files
 ├── build.xml                  # Ant build script
 └── manifest.mf                # Manifest file
-
 
 ---
 
@@ -107,60 +104,56 @@ java quiz.application.Login
 
 ## 📸 Screenshots / Demo Video
 
-![Login Screen](Screenshot 2026-01-31 001114" src="https://github.com/user-attachments/assets/04afb9a2-794d-4eb4-a0cc-777625dfbb05.png)
+<img width="1484" height="617" alt="Screenshot 2026-01-31 001114" src="https://github.com/user-attachments/assets/b10cc860-eba8-4120-8929-c614921184bb" />
 
-![Rules Screen](<img width="984" height="804" alt="Screenshot 2026-01-31 001145" src="https://github.com/user-attachments/assets/b6adf3bf-950b-4896-880b-15f648bff830" />)
+<img width="984" height="804" alt="Screenshot 2026-01-31 001145" src="https://github.com/user-attachments/assets/b6adf3bf-950b-4896-880b-15f648bff830" />
 
-![Quiz Screen](<img width="1781" height="1022" alt="Screenshot 2026-01-31 001306" src="https://github.com/user-attachments/assets/bbae0ae6-4547-4670-abfd-c5e4047c569c" />)
+<img width="1781" height="1022" alt="Screenshot 2026-01-31 001306" src="https://github.com/user-attachments/assets/bbae0ae6-4547-4670-abfd-c5e4047c569c" />
 
-![Result Screen](<img width="921" height="679" alt="Screenshot 2026-01-31 001342" src="https://github.com/user-attachments/assets/a41c43d6-1181-4149-ab80-9cc225a3a0aa" />)
+<img width="921" height="679" alt="Screenshot 2026-01-31 001342" src="https://github.com/user-attachments/assets/a41c43d6-1181-4149-ab80-9cc225a3a0aa" />
 
 ---
 
 ## 🎯 Learning Outcomes
 
--Java Swing GUI development
+- Java Swing GUI development
 
--Event handling in Java
+- Event handling in Java
 
--Timer usage
+- Timer usage
 
--Project structure in Java
+- Project structure in Java
 
--Object-Oriented Programming concepts
-
-
+- Object-Oriented Programming concepts
 
 ---
 
 ## 🔮 Future Enhancements
 
--Database integration (MySQL)
+- Database integration (MySQL)
 
--Admin panel for questions
+- Admin panel for questions
 
--Random question generation
+- Random question generation
 
--User authentication
+- User authentication
 
--Result history
-
-
+- Result history
 
 ---
 
 ## 👨‍💻 Author
 
--Tushar Patil
--Computer Engineering Graduate
--Java Developer
+- Tushar Patil
+- Computer Engineering Graduate
+- Java Developer
 
 
 ---
 
 ## 📄 License
 
--This project is for educational purposes only. Feel free to modify and enhance it.
+- This project is for educational purposes only. Feel free to modify and enhance it.
 
 
 ---
