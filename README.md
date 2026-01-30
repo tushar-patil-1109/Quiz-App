@@ -40,7 +40,7 @@ This project is ideal for Java beginners, college mini-projects, and interview d
 
 ## 📂 Project Structure
 
-'''text
+```text
 Quiz-Application-Using-Java
 │
 ├── src/
@@ -56,7 +56,7 @@ Quiz-Application-Using-Java
 ├── nbproject/                 # NetBeans project files
 ├── build.xml                  # Ant build script
 └── manifest.mf                # Manifest file
-'''
+
 ---
 
 ## 🚀 How to Run the Project
