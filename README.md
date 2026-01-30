@@ -74,43 +74,44 @@ Quiz-Application-Using-Java
 
 ### Method 2: Using Command Line
 
+```text
  - javac src/quiz/application/*.java
  - java quiz.application.Login
-
+```
 > Make sure Java is installed and environment variables are set.
 
 ---
 
 ## 🧠 Application Flow
 
-- 1. User enters name on Login Screen
+- 1.User enters name on Login Screen
 
-- 2. Quiz Rules are displayed
+- 2.Quiz Rules are displayed
 
-- 3. Quiz starts with MCQs and timer
+- 3.Quiz starts with MCQs and timer
 
-- 4. User selects answers
+- 4.User selects answers
 
-- 5. Final Score is calculated and shown
+- 5.Final Score is calculated and shown
 
 ---
 
 ## 📸 Screenshots / Demo Video
 
 ### Login Screen
-<img width="1484" height="617" alt="Screenshot 2026-01-31 001114" src="https://github.com/user-attachments/assets/b10cc860-eba8-4120-8929-c614921184bb" />
+<img width="700" height="300" alt="Screenshot 2026-01-31 001114" src="https://github.com/user-attachments/assets/b10cc860-eba8-4120-8929-c614921184bb" />
 <br><br>
 
 ### Rules Screen
-<img width="984" height="804" alt="Screenshot 2026-01-31 001145" src="https://github.com/user-attachments/assets/b6adf3bf-950b-4896-880b-15f648bff830" />
+<img width="450" height="300" alt="Screenshot 2026-01-31 001145" src="https://github.com/user-attachments/assets/b6adf3bf-950b-4896-880b-15f648bff830" />
 <br><br>
 
 ### Quiz Screen
-<img width="1781" height="1022" alt="Screenshot 2026-01-31 001306" src="https://github.com/user-attachments/assets/bbae0ae6-4547-4670-abfd-c5e4047c569c" />
+<img width="450" height="300" alt="Screenshot 2026-01-31 001306" src="https://github.com/user-attachments/assets/bbae0ae6-4547-4670-abfd-c5e4047c569c" />
 <br><br>
 
 ### Result Screen
-<img width="921" height="679" alt="Screenshot 2026-01-31 001342" src="https://github.com/user-attachments/assets/a41c43d6-1181-4149-ab80-9cc225a3a0aa" />
+<img width="450" height="300" alt="Screenshot 2026-01-31 001342" src="https://github.com/user-attachments/assets/a41c43d6-1181-4149-ab80-9cc225a3a0aa" />
 <br><br>
 
 ---
