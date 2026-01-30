@@ -8,34 +8,34 @@ This project is ideal for Java beginners, college mini-projects, and interview d
 
 ## 🛠️ Technologies Used
 
--Language: Java (Core Java)
+- Language: Java (Core Java)
 
--GUI Framework: Swing & AWT
+- GUI Framework: Swing & AWT
 
--IDE: NetBeans (recommended)
+- IDE: NetBeans (recommended)
 
--Build Tool: Ant (build.xml)
+- Build Tool: Ant (build.xml)
 
--Platform: Windows / Linux / macOS
+- Platform: Windows / Linux / macOS
 
 
 ---
 
 ## ✨ Features
 
--User Login Screen
+- User Login Screen
 
--Quiz Rules Page
+- Quiz Rules Page
 
--Multiple Choice Questions (MCQs)
+- Multiple Choice Questions (MCQs)
 
--Timer-based quiz
+- Timer-based quiz
 
--Score calculation
+- Score calculation
 
--Final score display
+- Final score display
 
--Clean and simple GUI
+- Clean and simple GUI
 
 
 
@@ -63,57 +63,51 @@ Quiz-Application-Using-Java
 
 ## 🚀 How to Run the Project
 
--Method 1: Using NetBeans (Recommended)
+- Method 1: Using NetBeans (Recommended)
 
--1. Open NetBeans IDE
-
-
--2. Click File → Open Project
+- 1. Open NetBeans IDE
 
 
--3. Select the Quiz-Application-Using-Java folder
+- 2. Click File → Open Project
 
 
--4. Right-click the project → Run
+- 3. Select the Quiz-Application-Using-Java folder
+
+
+- 4. Right-click the project → Run
 
 
 
--Method 2: Using Command Line
+- Method 2: Using Command Line
 
 javac src/quiz/application/*.java
 java quiz.application.Login
 
 > Make sure Java is installed and environment variables are set.
 
-
-
-
 ---
 
 ## 🧠 Application Flow
 
--1. User enters name on Login Screen
+- 1. User enters name on Login Screen
 
 
--2. Quiz Rules are displayed
+- 2. Quiz Rules are displayed
 
 
--3. Quiz starts with MCQs and timer
+- 3. Quiz starts with MCQs and timer
 
 
--4. User selects answers
+- 4. User selects answers
 
 
--5. Final Score is calculated and shown
-
-
-
+- 5. Final Score is calculated and shown
 
 ---
 
 ## 📸 Screenshots / Demo Video
 
-![Login Screen](<img width="1484" height="617" alt="Screenshot 2026-01-31 001114" src="https://github.com/user-attachments/assets/04afb9a2-794d-4eb4-a0cc-777625dfbb05" />)
+![Login Screen](Screenshot 2026-01-31 001114" src="https://github.com/user-attachments/assets/04afb9a2-794d-4eb4-a0cc-777625dfbb05.png)
 
 ![Rules Screen](<img width="984" height="804" alt="Screenshot 2026-01-31 001145" src="https://github.com/user-attachments/assets/b6adf3bf-950b-4896-880b-15f648bff830" />)
 
