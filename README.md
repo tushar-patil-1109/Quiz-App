@@ -75,8 +75,8 @@ Quiz-Application-Using-Java
 ### Method 2: Using Command Line
 
 ```text
- - javac src/quiz/application/*.java
- - java quiz.application.Login
+ javac src/quiz/application/*.java
+ java quiz.application.Login
 ```
 > Make sure Java is installed and environment variables are set.
 
@@ -96,8 +96,9 @@ Quiz-Application-Using-Java
 
 ---
 
-## 📸 Screenshots / Demo Video
+## 📸 Screenshots 
 
+<br><br>
 ### Login Screen
 <img width="1000" height="500" alt="Screenshot 2026-01-31 001114" src="https://github.com/user-attachments/assets/b10cc860-eba8-4120-8929-c614921184bb" />
 <br><br>
