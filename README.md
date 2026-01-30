@@ -56,12 +56,12 @@ Quiz-Application-Using-Java
 ├── nbproject/                 # NetBeans project files
 ├── build.xml                  # Ant build script
 └── manifest.mf                # Manifest file
-
+'''text
 ---
 
 ## 🚀 How to Run the Project
 
-Method 1: Using NetBeans (Recommended)
+### Method 1: Using NetBeans (Recommended)
 
 - 1.Open NetBeans IDE
 
@@ -71,11 +71,10 @@ Method 1: Using NetBeans (Recommended)
 
 - 4.Right-click the project → Run
 
-Method 2: Using Command Line
+### Method 2: Using Command Line
 
- javac src/quiz/application/*.java
- 
- java quiz.application.Login
+  javac src/quiz/application/*.java
+  java quiz.application.Login
 
 > Make sure Java is installed and environment variables are set.
 
@@ -100,14 +99,18 @@ Method 2: Using Command Line
 ### Login Screen
 <img width="1484" height="617" alt="Screenshot 2026-01-31 001114" src="https://github.com/user-attachments/assets/b10cc860-eba8-4120-8929-c614921184bb" />
 
+
 ### Rules Screen
 <img width="984" height="804" alt="Screenshot 2026-01-31 001145" src="https://github.com/user-attachments/assets/b6adf3bf-950b-4896-880b-15f648bff830" />
+
 
 ### Quiz Screen
 <img width="1781" height="1022" alt="Screenshot 2026-01-31 001306" src="https://github.com/user-attachments/assets/bbae0ae6-4547-4670-abfd-c5e4047c569c" />
 
+
 ### Result Screen
 <img width="921" height="679" alt="Screenshot 2026-01-31 001342" src="https://github.com/user-attachments/assets/a41c43d6-1181-4149-ab80-9cc225a3a0aa" />
+
 
 ---
 
