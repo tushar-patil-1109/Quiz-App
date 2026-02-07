@@ -1,4 +1,4 @@
-# 🏆 Quiz-Application Using Java 📝
+# 🏆 Quiz-Application (Qwizy) 📝
 
 The Quiz Application Using Java is a desktop-based GUI application developed using Core Java and Swing/AWT. It allows users to log in, read quiz rules, attempt multiple-choice questions within a time limit, and view their final score.
 
